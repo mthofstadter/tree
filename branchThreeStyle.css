@@ -1,7 +1,10 @@
 a:visited {
   color: white;
+  font-size: 0.01px;
 }
 
 a {
   font-size: 30px;
+  text-decoration: none;
+  color: black;
 }
