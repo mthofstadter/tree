@@ -1,0 +1,12 @@
+img {
+  height: 216px;
+  width: 400px;
+}
+
+.special {
+  color: white;
+}
+
+.special:visited {
+  color: red;
+}
