@@ -1,10 +1,11 @@
-a:visited {
-  color: white;
-  font-size: 0.01px;
-}
-
 a {
   font-size: 30px;
   text-decoration: none;
   color: black;
+}
+
+a:visited {
+  color: white;
+  font-size: 1px;
+  text-decoration: none;
 }
