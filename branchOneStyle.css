@@ -2,8 +2,13 @@
   display: none;
 }
 
+p {
+  font-size: 100px;
+}
+
 @media only screen
   and (min-device-width: 320px)
   and (max-device-width: 480px) {
-    .cool {display: inline;}
+    .cool {display: inline;
+    }
   }
