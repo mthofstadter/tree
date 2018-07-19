@@ -3,10 +3,60 @@ img {
   width: 400px;
 }
 
-.special {
-  color: white;
+.tree {
+  width: 75%;
+  margin: 0px auto;
 }
 
-.special:visited {
-  color: red;
+a {
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
+}
+
+#branchone {
+  width: 100px;
+  height: 20px;
+  border-radius: 10px;
+  border: solid 1px black;
+  padding: 10px 5px 10px 5px;
+  margin: 5px 0px 5px 0px;
+  background-color: rgb(51, 204, 51);
+}
+
+#branchone:hover {
+  box-shadow: 0px 0px 3px;
+}
+
+#branchtwo {
+  width: 100px;
+  height: 20px;
+  border-radius: 10px;
+  border: solid 1px black;
+  padding: 10px 5px 10px 5px;
+  margin: 5px 0px 5px 0px;
+  background-color: white;
+}
+
+#branchtwo:hover {
+  box-shadow: 0px 0px 3px;
+}
+
+#branchthree {
+  width: 100px;
+  height: 20px;
+  border-radius: 10px;
+  border: solid 1px black;
+  padding: 10px 5px 10px 5px;
+  margin: 5px 0px 5px 0px;
+  background-color: rgb(0, 102, 204);
+}
+
+#branchthree:hover {
+  box-shadow: 0px 0px 3px;
 }
