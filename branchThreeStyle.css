@@ -18,6 +18,14 @@ a:visited {
   user-select: none;
 }
 
+#cog {
+  font-size: 16px;
+}
+
+#cog:hover {
+  font-weight: bold;
+}
+
 
 header {
   height: 200px;
