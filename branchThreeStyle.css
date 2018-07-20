@@ -18,11 +18,11 @@ a:visited {
   user-select: none;
 }
 
-#cog {
+.bold {
   font-size: 16px;
 }
 
-#cog:hover {
+.bold:hover {
   font-weight: bold;
 }
 
